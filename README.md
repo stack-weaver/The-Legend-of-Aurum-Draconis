@@ -56,4 +56,5 @@ As part of the broader DCG universe, The Legend of Aurum Draconis is the first f
 
 ## 🏷️ Keywords  
 GameFi, blockchain RPG, NFT game, Avalanche network, play-to-earn, Hero NFT, crafting game, loot system, token economy, DCAU token, DCAR token, DAO game economy.
+If you have some questions in this project, feel free to reach out.
 
